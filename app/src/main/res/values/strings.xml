@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="welcome_message">Welcome to COMP 2161</string>
+    <string-array name="city_names">
+        <item>Toronto</item>
+        <item>Vancouver</item>
+        <item>Montreal</item>
+        <item>Victoria</item>
+        <item>Edmonton</item>
+        <!-- Add more city names as needed -->
+    </string-array>
+
+    <!-- Define descriptions for each city -->
+    <string-array name="city_descriptions">
+        <item>Toronto, the capital of the province of Ontario, is Canada\'s largest city and a vibrant cultural and economic hub. Situated on the shores of Lake Ontario, Toronto offers a diverse array of attractions, from iconic landmarks like the CN Tower and the Royal Ontario Museum to bustling neighborhoods such as Kensington Market and the Distillery District. Visitors can explore world-class dining, shopping, and entertainment options, as well as lush green spaces like High Park and the Toronto Islands.</item>
+        <item>Vancouver, located on the west coast of Canada, is renowned for its stunning natural beauty, vibrant arts scene, and diverse cultural attractions. Surrounded by mountains and ocean, Vancouver offers endless outdoor recreational opportunities, including hiking, skiing, and kayaking. The city is also home to a thriving food scene, with fresh seafood and local produce featured prominently in its restaurants. Visitors can explore historic neighborhoods like Gastown, stroll along the seawall at Stanley Park, and take in breathtaking views from the top of Grouse Mountain.</item>
+        <item>Montreal, the largest city in the province of Quebec, is known for its rich history, vibrant arts scene, and distinctive French-Canadian culture. The city\'s Old Port area features cobblestone streets, historic buildings, and lively street performers, while the iconic Notre-Dame Basilica is a must-see for architecture enthusiasts.Montreal is also famous for its festivals, including the Montreal International Jazz Festival and the Just for Laughs comedy festival.</item>
+        <item>Victoria, the capital city of British Columbia, is located on the southern tip of Vancouver Island and is known for its charming colonial architecture, beautiful gardens, and picturesque waterfront. Visitors can explore historic landmarks such as the Fairmont Empress Hotel and the British Columbia Parliament Buildings, stroll through the stunning Butchart Gardens, and enjoy afternoon tea at one of the city\'s elegant tearooms.</item>
+        <item>Edmonton, the capital of Alberta, is a vibrant city known for its dynamic arts scene, rich cultural heritage, and stunning natural surroundings. Visitors can explore the historic Old Strathcona district, home to charming shops, cafes, and theaters, or visit the renowned West Edmonton Mall, one of the largest shopping and entertainment complexes in the world. Edmonton is also a gateway to the Canadian Rockies, with easy access to outdoor adventures such as hiking, skiing, and snowboarding in nearby national parks like Jasper and Banff.</item>
+        <!-- Add more descriptions as needed -->
+    </string-array>
+</resources>
